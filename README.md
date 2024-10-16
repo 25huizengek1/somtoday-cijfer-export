@@ -1,3 +1,9 @@
+## -- GEARCHIVEERD --
+
+Deze repo is gearchiveerd. Aangezien ik geen Somtoday-account meer heb kan ik dit niet langer maintainen.
+
+Voel je vrij om de boel te forken.
+
 # somtoday-cijfer-export
 
 Somtoday cijfer screenshot tool 🇳🇱
